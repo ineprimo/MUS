@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3a60174d-3c25-47d8-bd02-f56b83ca7737}">
+		<property name="assetPath">
+			<value>mountain/sad/voices 1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>22.533333333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2010cd95-87bf-49e0-b988-20e1161b4253}</destination>
+		</relationship>
+	</object>
+</objects>
