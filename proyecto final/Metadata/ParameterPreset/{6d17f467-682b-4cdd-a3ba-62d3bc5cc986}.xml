@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{6d17f467-682b-4cdd-a3ba-62d3bc5cc986}">
+		<property name="name">
+			<value>Sentimiento</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8ef6a4f1-4b7a-4246-8290-76b6ab849633}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{eec7ef9a-0e4d-42ec-b7aa-bcf600baf5bf}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{eec7ef9a-0e4d-42ec-b7aa-bcf600baf5bf}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
