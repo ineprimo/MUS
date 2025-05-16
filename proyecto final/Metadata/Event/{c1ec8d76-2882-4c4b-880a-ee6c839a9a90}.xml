@@ -708,7 +708,7 @@
 			<value>21.333333333333332</value>
 		</property>
 		<property name="name">
-			<value>Happy</value>
+			<value>TabernHappyLoop</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{dc2d16b2-a5c7-47bc-a60e-0c84f79bebb1}</destination>
@@ -726,6 +726,9 @@
 		</property>
 		<property name="length">
 			<value>21.333333333333329</value>
+		</property>
+		<property name="name">
+			<value>TabernSadLoop</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{dc2d16b2-a5c7-47bc-a60e-0c84f79bebb1}</destination>
@@ -745,7 +748,7 @@
 			<value>10.666666666666664</value>
 		</property>
 		<property name="name">
-			<value>action</value>
+			<value>TabernActionLoop</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{dc2d16b2-a5c7-47bc-a60e-0c84f79bebb1}</destination>
