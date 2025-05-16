@@ -2923,9 +2923,6 @@
 		<property name="position">
 			<value>120.29867088314407</value>
 		</property>
-		<property name="triggerConditionMode">
-			<value>1</value>
-		</property>
 		<relationship name="timeline">
 			<destination>{12e73bd9-86f6-426c-8643-53104471f4ac}</destination>
 		</relationship>
