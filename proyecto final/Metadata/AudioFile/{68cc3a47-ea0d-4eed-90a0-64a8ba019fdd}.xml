@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{68cc3a47-ea0d-4eed-90a0-64a8ba019fdd}">
+		<property name="assetPath">
+			<value>tabern-forest/happy/flauteTabern.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.666666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2010cd95-87bf-49e0-b988-20e1161b4253}</destination>
+		</relationship>
+	</object>
+</objects>

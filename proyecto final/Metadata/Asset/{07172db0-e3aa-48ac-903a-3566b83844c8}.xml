@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{07172db0-e3aa-48ac-903a-3566b83844c8}">
+		<property name="assetPath">
+			<value>tabern-forest/sad/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2010cd95-87bf-49e0-b988-20e1161b4253}</destination>
+		</relationship>
+	</object>
+</objects>
