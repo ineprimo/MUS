@@ -10,7 +10,6 @@
 	</object>
 	<object class="ProjectSettings" id="{15f3db12-11d1-40b6-950e-78a0806e2e37}">
 		<property name="openWindows">
-			<value>Parameters Browser 1</value>
 			<value>Event Editor 1</value>
 		</property>
 		<property name="windowLayout">
