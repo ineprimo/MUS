@@ -9,6 +9,9 @@
 		</relationship>
 	</object>
 	<object class="ProjectSettings" id="{15f3db12-11d1-40b6-950e-78a0806e2e37}">
+		<property name="windowLayout">
+			<value>AAAAAgAAACgAUABhAHIAYQBtAGUAdABlAHIAcwAgAEIAcgBvAHcAcwBlAHIAIAAxAAAAQgHZ0MsAAwAAAAACOAAAABIAAAPHAAAC/wAAAjgAAAAwAAADxwAAAv8AAAAAAAAAAAYAAAACOAAAADAAAAPHAAAC/wAAADAAUwBoAGEAcgBlAGQAIABFAGYAZgBlAGMAdABzACAAQgByAG8AdwBzAGUAcgAgADEAAABCAdnQywADAAAAAAI4AAAAEgAAA8cAAAL/AAACOAAAADAAAAPHAAAC/wAAAAAAAAAABgAAAAI4AAAAMAAAA8cAAAL/</value>
+		</property>
 		<relationship name="activePlatform">
 			<destination>{747f061f-3dee-438b-87f5-fe3285628427}</destination>
 		</relationship>
