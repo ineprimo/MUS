@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{dfb0574a-b791-488f-87ee-858488ea44af}">
+		<property name="assetPath">
+			<value>tabern/sad-action/lira.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.333333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2010cd95-87bf-49e0-b988-20e1161b4253}</destination>
+		</relationship>
+	</object>
+</objects>

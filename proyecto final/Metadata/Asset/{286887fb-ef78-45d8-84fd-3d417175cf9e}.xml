@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{286887fb-ef78-45d8-84fd-3d417175cf9e}">
+		<property name="assetPath">
+			<value>tabern/action-sad/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2010cd95-87bf-49e0-b988-20e1161b4253}</destination>
+		</relationship>
+	</object>
+</objects>
