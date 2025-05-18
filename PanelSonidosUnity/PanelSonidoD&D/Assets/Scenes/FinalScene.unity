@@ -4167,9 +4167,9 @@ MonoBehaviour:
   NonRigidbodyVelocity: 0
   Params:
   - Name: Bioma
-    Value: 2
+    Value: 0
   - Name: Intensidad
-    Value: 1
+    Value: 0
   - Name: Sentimiento
     Value: 0
   OverrideAttenuation: 0

@@ -48,7 +48,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 6009778911676088087}
   cacheVersion: 131847
-  cacheTime: 638831276046186679
+  cacheTime: 638831882395488302
   SerializableEventsDict:
   - key: event:/CombinationEvent
     index: 0
@@ -81,7 +81,7 @@ MonoBehaviour:
   - {fileID: -4117629979028482844}
   MinDistance: 1
   MaxDistance: 20
-  Length: 661333
+  Length: 671333
 --- !u!114 &596413935044683988
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -141,10 +141,10 @@ MonoBehaviour:
   Path: ../../proyecto final/Build/Desktop/PanelD&D.bank
   Name: PanelD&D
   StudioPath: bank:/PanelD&D
-  lastModified: 638831276046186679
+  lastModified: 638831882395488302
   FileSizes:
   - Name: Desktop
-    Value: 23578240
+    Value: 23613088
   Exists: 1
 --- !u!114 &6009778911676088087
 MonoBehaviour:

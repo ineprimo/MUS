@@ -113,6 +113,7 @@ public class ControladorMusica : MonoBehaviour
 
         _musica.EventInstance.setPaused(false);
         _startButton.SetActive(false);
+        _pausa = false;
 
     }
 
