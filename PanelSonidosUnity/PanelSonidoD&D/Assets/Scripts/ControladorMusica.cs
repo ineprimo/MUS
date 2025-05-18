@@ -15,6 +15,10 @@ public class ControladorMusica : MonoBehaviour
 
     [SerializeField] private Slider _volumenSlider;
 
+    [SerializeField] private GameObject _startButton;
+
+    [SerializeField] private bool _pausa = false;
+
 
     FMODUnity.StudioEventEmitter _musica;
 
@@ -22,6 +26,8 @@ public class ControladorMusica : MonoBehaviour
     {
 
         _musica = GetComponent<FMODUnity.StudioEventEmitter>();
+
+        _musica.EventInstance.setPaused(_pausa);
 
         float intensidadInicio; 
         _musica.EventInstance.getParameterByName("Intensidad", out intensidadInicio);
@@ -80,5 +86,34 @@ public class ControladorMusica : MonoBehaviour
 
     }
 
+    public void controlPausaMusica()
+    {
+        _pausa = !_pausa;
+        _musica.EventInstance.setPaused(_pausa);
+
+    }
+
+    public void salirAplicaion()
+    {
+        if(Application.platform == RuntimePlatform.WebGLPlayer)
+        {
+
+            _musica.EventInstance.setPaused(true);
+
+        }
+        else
+        {
+            Application.Quit();
+        }
+
+    }
+
+    public void empezarSesion()
+    {
+
+        _musica.EventInstance.setPaused(false);
+        _startButton.SetActive(false);
+
+    }
 
 }
